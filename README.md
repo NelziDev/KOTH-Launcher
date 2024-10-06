@@ -1,7 +1,5 @@
 # KOTH By Nelzi
 
-![KOTH By Nelzi Logo](https://koth.nelzi.me/img/logo.png)
-
 ## 🎮 TikTok Live Interactive Streaming Experience
 
 Welcome to KOTH By Nelzi, the ultimate interactive streaming experience for TikTok Live! Engage your audience like never before with real-time interactions and dynamic gameplay.
